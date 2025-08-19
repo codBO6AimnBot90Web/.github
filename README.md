@@ -1,0 +1,2 @@
+# .github
+Im already Cursed
